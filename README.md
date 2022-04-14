@@ -1,6 +1,6 @@
 ### <h1 align = "center"> Olá 👋 eu sou o Wenderson Gustavo </h1><h3 align = "center"> ☕ Developer Backend jr (carregando) 🏡 Pará 🌎 Brazil 
 
-- 🌱 Aprofundamento conhecimentos no lado backend da força ...
+- 🌱 Aprofundamento conhecimentos em backend (e logo frontend) ...
 
 <h3 align="left">Techonology stack:</h3>
  
