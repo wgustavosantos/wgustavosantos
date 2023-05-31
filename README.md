@@ -1,6 +1,7 @@
 ### <h1 align = "center"> Olá 👋 eu sou o Wenderson Gustavo </h1><h3 align = "center"> ☕ Developer Backend jr (carregando) 🏡 Pará 🌎 Brazil 
 
 - 🌱 Atualmente fazendo o curso Especialista Spring Rest da Algaworks para Backend e na Alura para frontend utilizando React
+ - 🚀 Meu Portfólio **[Wenderson Gustavo Santos](https://https://portifolio-alura-chi.vercel.app/)**;
 
 <h3 align="left">Techonology stack:</h3>
  
